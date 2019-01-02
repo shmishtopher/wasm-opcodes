@@ -1,0 +1,11 @@
+{
+  "name": "@shmish/wasm",
+  "version": "1.0.0",
+  "description": "WASM opcodes, all in one place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shmish <shmish90@gmail.com>",
+  "license": "MIT"
+}
