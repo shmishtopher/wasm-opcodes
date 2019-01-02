@@ -8,5 +8,5 @@ export { default as global } from './global.js'
 
 export { default as ctrl } from './ctrl.js'
 export { default as para } from './para.js'
-export { default as mem } from './ctrl.js'
+export { default as mem } from './mem.js'
 export { default as num } from './num.js'
