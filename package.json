@@ -1,11 +1,16 @@
 {
   "name": "@shmish/wasm",
   "version": "1.0.0",
-  "description": "WASM opcodes, all in one place",
-  "main": "index.js",
+  "description": "WASM constants, all in one place",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Shmish <shmish90@gmail.com>",
-  "license": "MIT"
+  "author": "Shmish <shmish90@gmail.com<",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shmishtopher/wasm.git"
+  }
 }
