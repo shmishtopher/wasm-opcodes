@@ -34,5 +34,5 @@ export default {
   CONVERT_i64_u:  num.f32_CONVERT_i64_u,
   DEMOTE_f64:     num.f32_DEMOTE_f64,
 
-  REINTERPRET:  num.f32_REINTERPRET_i32,
+  REINTERPRET_i32:  num.f32_REINTERPRET_i32,
 }
