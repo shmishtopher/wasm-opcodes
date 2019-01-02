@@ -1,5 +1,6 @@
 {
   "name": "@shmish/wasm",
+  "private": false,
   "version": "1.0.0",
   "description": "WASM constants, all in one place",
   "main": "lib/index.js",
