@@ -1,14 +1,18 @@
 {
   "name": "@shmish/wasm",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "WASM constants, all in one place",
   "main": "lib/index.js",
   "module": "esm/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["wasm", "wasm-codegen", "webassembly"],
+  "keywords": [
+    "wasm",
+    "wasm-codegen",
+    "webassembly"
+  ],
   "author": "Shmish <shmish90@gmail.com<",
   "license": "MIT",
   "repository": {
