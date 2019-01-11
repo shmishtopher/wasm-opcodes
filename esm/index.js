@@ -10,6 +10,3 @@ export { default as ctrl } from './ctrl.js'
 export { default as para } from './para.js'
 export { default as mem } from './mem.js'
 export { default as num } from './num.js'
-
-export { default as types } from './types.js'
-export { default as struct } from './struct.js'
