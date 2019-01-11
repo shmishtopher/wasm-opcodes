@@ -1,4 +1,3 @@
-# @WASM op-codes
-```
-npm i --save @shmish/wasm
-```
+# wasm-opcodes
+
+```npm i wasm-opcodes --save```
