@@ -1,7 +1,7 @@
 {
   "name": "wasm-opcodes",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WASM constants, all in one place",
   "main": "lib/index.js",
   "module": "esm/index.js",
